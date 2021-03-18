@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Davies
 - 👀 I’m interested in AI, robotics, smart contracts & distributed ledger technologies
-- 🌱 I’m currently learning rust, blockchain development for ergoplatform.org
+- 🌱 I’m currently learning rust, development for ergoplatform.org
 - 💞️ I’m looking to collaborate on dApps
 - 📫 sam.davies7@protonmail.com
 
